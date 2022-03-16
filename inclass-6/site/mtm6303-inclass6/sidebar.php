@@ -3,8 +3,8 @@
  * Sidebar containing the main widget area
  *
  * @package WordPress
- * @subpackage Twenty_Eleven
- * @since Twenty Eleven 1.0
+ * @subpackage mtm6303_inclass6
+ * @since mtm6303-inclass6 1.0
  */
 
 ?>

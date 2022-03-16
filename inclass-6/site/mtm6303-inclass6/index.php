@@ -9,7 +9,7 @@
  * Learn more: https://codex.wordpress.org/Template_Hierarchy
  *
  * @package WordPress
- * @subpackage MTM6303_Test
+ * @subpackage mtm6303_inclass6
  */
 
 get_header(); ?>

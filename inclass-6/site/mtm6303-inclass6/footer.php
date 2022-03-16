@@ -5,8 +5,8 @@
  * Contains the closing of the id=main div and all content after
  *
  * @package WordPress
- * @subpackage MTM6303_Test
- * @since MTM6303 Test 1.0
+ * @subpackage mtm6303_inclass6
+ * @since mtm6303-inclass6 1.0
  */
 ?>
 
